@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MERN-Climateapp/static/css/main.f79d7c41.css",
+    "main.js": "/MERN-Climateapp/static/js/main.4347ed13.js",
+    "index.html": "/MERN-Climateapp/index.html",
+    "main.f79d7c41.css.map": "/MERN-Climateapp/static/css/main.f79d7c41.css.map",
+    "main.4347ed13.js.map": "/MERN-Climateapp/static/js/main.4347ed13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f79d7c41.css",
+    "static/js/main.4347ed13.js"
+  ]
+}
